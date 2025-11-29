@@ -1,0 +1,264 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red55\green59\blue69;\red242\green242\blue242;\red74\green83\blue93;
+}
+{\*\expandedcolortbl;;\cssrgb\c27843\c29804\c34118;\cssrgb\c96078\c96078\c96078;\cssrgb\c36078\c40000\c43922;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+#EXTM3U x-tvg-url="https://xmltv.info/de/epg.xml"\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: 13th Street" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/442.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/442.png}}",13th Street\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=13TH+STREET\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: 3sat" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1006.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1006.png}}",3Sat\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=3+SAT\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ARD alpha" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1007.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1007.png}}",ARD alpha\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ARD+ALPHA\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: AXN White" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/539.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/539.png}}",AXN White\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=AXN\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ANIXE Serie" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1008.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1008.png}}",Anixe Serie\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ANIXE SERIE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ARTE" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1009.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1009.png}}",ARTE\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ARTE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Auto Motor und Sport" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1031.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1031.png}}",Auto Motor Sport\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: BR Nord" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/959.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/959.png}}",BR\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=BR\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Cartoon Network" group-title="Kinder" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1032.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1032.png}}",Cartoon Network\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Comedy Central" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1073.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1073.png}}",Comedy Central\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=VIVA\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Crime+Investigation" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/945.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/945.png}}",CRIME + INVESTIGATION\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=A%26E\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Das Erste" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1016.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1016.png}}",Das Erste\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ARD+%2D+DAS+ERSTE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Deluxe Music" group-title="Musik" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1034.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1034.png}}",DELUXE MUSIC\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=DELUXE MUSIC\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: DMAX" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/969.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/969.png}}",DMAX\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=DMAX\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Discovery" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/543.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/543.png}}",Discovery\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=DISCOVERY\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Disney Channel" group-title="Kinder" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1035.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1035.png}}",Disney Channel\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL\cb1 \
+\cb3 #EXTINF:-1 tvg-id="E! Entertainment" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/547.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/547.png}}",E! ENTERTAINMENT\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Eurosport 1" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/890.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/890.png}}",Eurosport 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=EUROSPORT+1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Eurosport 2" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/450.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/450.png}}",Eurosport 2\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=EUROSPORT+2\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: GEO" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/60x60/1448.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/60x60/1448.png}}",Geo HD\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=GEO+TV\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Heimatkanal" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/498.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/498.png}}",Heimatkanal\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=HEIMATKANAL\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: History" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/542.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/542.png}}",History\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=HISTORY\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: HR" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1147.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1147.png}}",HR\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=HR\cb1 \
+\cb3 #EXTINF:-1 tvg-id="Jukebox" group-title="Musik" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/60x60/1400.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/60x60/1400.png}}",Jukebox\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=JUKEBOX\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Kabel Eins" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/928.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/928.png}}",Kabel 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=KABEL 1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Kabel Eins CLASSICS" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1037.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1037.png}}",Kabel 1 Classics\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Kabel Eins Doku" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1142.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1142.png}}",Kabel 1 Doku\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: KiKA" group-title="Kinder" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1010.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1010.png}}",KiKA\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=KIKA\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Kinowelt" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1039.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1039.png}}",Kinowelt\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=KINOWELT\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: MDR Sachsen" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1011.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1011.png}}",MDR\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=MDR\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: MTV" group-title="Musik" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1395.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1395.png}}",MTV\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=MTV\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: N-TV" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1004.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1004.png}}",N-TV\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=N%2DTV\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: N24 Doku" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1012.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1012.png}}",N24 Doku\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=N24+DOKU\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: NDR Hamburg" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1040.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1040.png}}",NDR\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=NDR\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: National Geographic WILD" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1170.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1170.png}}",Nat Geo Wild\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: National Geographic" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/765.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/765.png}}",Nat Geo\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE:Nicktoons" group-title="Kinder" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/943.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/943.png}}",nickelodeon\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=NICKTOONS\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ONE" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1024.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1024.png}}",ONE\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ONE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="AT: ORF 1" group-title="ORF" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/996.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/996.png}}",ORF 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ORF+1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="AT: ORF 2" group-title="ORF" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1151.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1151.png}}",ORF 2\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ORF+2\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Phoenix" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1019.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1019.png}}",PHOENIX\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=PHOENIX\cb1 \
+\cb3 #EXTINF:-1 tvg-id="PULS 4" group-title="ORF" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1052.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1052.png}}",PULS 4\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=PULS+4\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ProSieben" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/936.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/936.png}}",ProSieben\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=PRO+7\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ProSieben FUN" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png"}}{\fldrslt \cf4 \ul \ulc4 https://upload.wikimedia.org/wikipe...n_HD_2012.png/320px-ProSieben_Fun_HD_2012.png}}",ProSieben Fun\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=PRO+7+FUN\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ProSieben MAXX" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/955.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/955.png}}",Pro 7 MAXX\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=PRO+7+MAXX\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: rbb Berlin" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1047.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1047.png}}",RBB\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=RBB\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: RTL" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/999.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/999.png}}",RTL\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=RTL\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: RTL ZWEI" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1108.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1108.png}}",RTL 2\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=RTL+2\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: RTL Crime" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1444.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1444.png}}",RTL Crime\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=RTL+CRIME\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: RTL Living" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1446.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1446.png}}",RTL Living\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=RTL+LIVING\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: NITRO" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1059.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1059.png}}",RTL Nitro\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=RTL+NITRO\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: RTL Passion" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png"}}{\fldrslt \cf4 \ul \ulc4 https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png}}",RTL Passion\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=RTL+PASSION\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: RTLup" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1187.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1187.png}}",RTL up\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=RTL+UP\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Romance TV" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1179.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1179.png}}",Romance\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ROMANCE+TV\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: SAT.1" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/937.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/937.png}}",Sat 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SAT+1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: SAT.1 emotions" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1042.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1042.png}}",Sat 1 Emotions\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: SAT.1 GOLD" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/956.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/956.png}}",Sat 1 Gold\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SAT+1+GOLD\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Servus TV" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/957.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/957.png}}",Servus TV\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SERVUS+TV\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Silverline" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256"}}{\fldrslt \cf4 \ul \ulc4 https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256}}",Silverline\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SILVERLINE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: SIXX" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/942.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/942.png}}",Sixx\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SIXX\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Atlantic" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/320x39/529.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/320x39/529.png}}",Sky Atlantic\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Cinema Action" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/320x39/456.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/320x39/456.png}}",Sky Cinema Action\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Cinema Best Of" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/320x39/527.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/320x39/527.png}}",Sky Cinema Best of\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Cinema Classics" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/320x39/483.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/320x39/483.png}}",Sky Cinema Classics\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Cinema Fun" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/320x39/1466.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/320x39/1466.png}}",Sky Cinema Fun\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Cinema Premieren" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/320x39/473.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/320x39/473.png}}",Sky Cinema Premieren\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Cinema Special" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/320x39/506.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/320x39/506.png}}",Sky Cinema Special\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Cinema Thriller" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/320x39/471.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/320x39/471.png}}",Sky Cinema Thriller\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Crime" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/320x39/1424.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/320x39/1424.png}}",Sky Crime\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+CRIME\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Documentaries" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/320x39/1443.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/320x39/1443.png}}",Sky Documentaries\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Krimi" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/320x39/436.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/320x39/436.png}}",Sky Krimi\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+KRIMI\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Nature" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/320x39/1440.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/320x39/1440.png}}",Sky Nature\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+NATURE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky One" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/img/station/lightbg/320x39/1158.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/img/station/lightbg/320x39/1158.png}}",Sky One\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Replay" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png}}",Sky Replay\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+REPLAY\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sony Channel" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/961.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/961.png}}",Anixe Serie\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SONY CHANNEL\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Spiegel Geschichte" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/486.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/486.png}}",Spiegel Geschichte\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Spiegel TV Wissen" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1246.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1246.png}}",Spiegel TV Wissen\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: SPORT1" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1014.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1014.png}}",Sport 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SPORT1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: SPORTDIGITAL FUSSBALL" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1045.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1045.png}}",Sport digital\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SPORTDIGITALL+FUSSBALL\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Super RTL" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/993.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/993.png}}",Super RTL\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SUPER+RTL\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: SR" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1030.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1030.png}}",SWR\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SWR\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Syfy" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/537.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/537.png}}",Syfy\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SYFY\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: TLC" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/944.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/944.png}}",TLC\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=TLC\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Tagesschau24" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1046.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1046.png}}",Tagesschau 24\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=TAGESSCHAU24\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: TELE 5" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1018.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1018.png}}",Tele 5\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=TELE+5\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: TOGGO plus" group-title="Kinder" tvg-logo="{\field{\*\fldinst{HYPERLINK "https://images.waipu.tv/api/channels/TOGGOPLUS/logosd.png?width=100&height=100"}}{\fldrslt \cf4 \ul \ulc4 https://images.waipu.tv/api/channels/TOGGOPLUS/logosd.png?width=100&height=100}}",Toggo Plus\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=TOGGO+PLUS\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Universal TV" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/438.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/438.png}}",Universal Channel\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: VOX" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1057.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1057.png}}",Vox\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=VOX\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: VOXup" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100"}}{\fldrslt \cf4 \ul \ulc4 https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100}}",Vox UP\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=VOX+UP\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Warner TV Comedy" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/889.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/889.png}}",WarnerTV Comedy\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Warner TV Film" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/914.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/914.png}}",WarnerTV Film\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Warner TV Serie" group-title="SKY/Filme" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/479.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/479.png}}",WarnerTV Serie\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: WDR Dortmund" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1000.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1000.png}}",WDR\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=WDR\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="{\field{\*\fldinst{HYPERLINK "https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100"}}{\fldrslt \cf4 \ul \ulc4 https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100}}",WELT DER WUNDER\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=WELT DER WUNDER\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ZDF" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1063.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1063.png}}",ZDF\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ZDF\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ZDFinfo" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1013.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1013.png}}",ZDF info\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ZDF INFO\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: ZDFneo" group-title="Standart" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/darkbg/100x100/1015.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/darkbg/100x100/1015.png}}",ZDF neo\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=ZDF NEO\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: DAZN 1" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png"}}{\fldrslt \cf4 \ul \ulc4 tv-logos/countries/germany/dazn1-de.png at main \'b7 tv-logo/tv-logos}}",DAZN 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=DAZN 1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png"}}{\fldrslt \cf4 \ul \ulc4 tv-logos/countries/germany/dazn1-de.png at main \'b7 tv-logo/tv-logos}}",DAZN 2\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=DAZN 2\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/517.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/517.png}}",Sky Bundesliga\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/524.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/524.png}}",Sky Bundesliga 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/516.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/516.png}}",Sky Bundesliga 2\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/526.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/526.png}}",Sky Bundesliga 3\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 4" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/515.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/515.png}}",Sky Bundesliga 4\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+4\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 5" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/523.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/523.png}}",Sky Bundesliga 5\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+5\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 6" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1468.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1468.png}}",Sky Bundesliga 6\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+6\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 7" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1469.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1469.png}}",Sky Bundesliga 7\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+7\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 8" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1470.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1470.png}}",Sky Bundesliga 8\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 9" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1471.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1471.png}}",Sky Bundesliga 9\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1474.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1474.png}}",Sky Bundesliga 10\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/550.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/550.png}}",Sky Sport 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/568.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/568.png}}",Sky Sport 2\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 2\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 3" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/534.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/534.png}}",Sky Sport 3\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 3\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 4" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/569.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/569.png}}",Sky Sport 4\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 4\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 5" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/567.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/567.png}}",Sky Sport 5\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 5\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 6" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/558.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/558.png}}",Sky Sport 6\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 6\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 7" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1173.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1173.png}}",Sky Sport 7\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 7\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 8" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1174.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1174.png}}",Sky Sport 8\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 8\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 9" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1175.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1175.png}}",Sky Sport 9\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 9\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport 10" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/433.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/433.png}}",Sky Sport 10\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT 10\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport F1" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1422.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1422.png}}",Sky Sport Formel 1\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT F1\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport Golf" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1274.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1274.png}}",Sky Sport Golf\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT GOLF\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport Tennis" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1275.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1275.png}}",Sky Sport Tennis\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT TENNIS\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport Mix" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1273.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1273.png}}",Sky Sport Mix\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT MIX\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport Premier League" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/550.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/550.png}}",Sky Sport Premier League\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT PREMIER LEAGUE\cb1 \
+\cb3 #EXTINF:-1 tvg-id="DE: Sky Sport News" group-title="Sport" tvg-logo="{\field{\*\fldinst{HYPERLINK "http://epggw.a1.net/img/station/lightbg/100x100/1439.png"}}{\fldrslt \cf4 \ul \ulc4 http://epggw.a1.net/img/station/lightbg/100x100/1439.png}}",Sky Sport News\cb1 \
+\cb3 plugin://plugin.video.vavooto/?name=SKY SPORT NEWS}
